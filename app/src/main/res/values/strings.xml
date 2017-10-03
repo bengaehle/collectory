@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">collectory</string>
+
+    <string name="main_button_text_view">View</string>
+
+    <string name="main_button_text_modify">Modify</string>
+</resources>

@@ -1,0 +1,40 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+#Files to ignore for Collectory App
+
+## Directory-based project format
+.idea/
+
+# Java class files
+
+*.class
+
+
+
+# Generated files
+
+bin/
+
+gen/
+
+
+
+# Gradle files
+
+.gradle/
+build/
+
+/*/build/
+
+
+# Local configuration file (sdk path, etc)
+
+local.properties
